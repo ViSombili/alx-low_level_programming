@@ -5,7 +5,7 @@
  *
  * Return:void
  */
-void_puts(char *str)
+void_puts (char *str)
 {
 	while (*str != '\0')
 	{
